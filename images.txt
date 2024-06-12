@@ -1,7 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-snowdreamtech/frpc:0.50.0
-node:18
-node:16.20
-openjdk:8-jdk-alpine
+centos:centos7.9.2009
